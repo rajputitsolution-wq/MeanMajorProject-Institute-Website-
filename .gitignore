@@ -1,13 +1,13 @@
 # Node dependencies
 Back-End/node_modules/
-
+/node_modules/
 
 # Environment files
 Back-End/.env
 
 # Angular build files
 
-/FrontEnd/dist/
+/dist/
 
 
 # Logs
