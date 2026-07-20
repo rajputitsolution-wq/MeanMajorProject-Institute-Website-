@@ -6,8 +6,7 @@ Back-End/node_modules/
 Back-End/.env
 
 # Angular build files
-
-/dist/
+dist/
 
 
 # Logs
